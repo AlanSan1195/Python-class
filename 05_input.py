@@ -13,4 +13,3 @@ edad = input()
 
 print("quienres insicribierte enel curso de python?\n")
 respuesta = input()
-
