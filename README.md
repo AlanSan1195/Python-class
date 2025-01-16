@@ -105,7 +105,7 @@ print("3. Haz la división entera entre el número que te salió y el número 2"
 print("4. El resultado debería ser 1")
 
 number = 3.1416
-print(round(number) % 2)
+print(round(number) // 2)
 ```
 
 ---
